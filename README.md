@@ -64,8 +64,8 @@ unrelaxed input with no relaxation step:
 | CGCNN       | 0.510 | 0.135         | −0.624 | [link](https://matbench-discovery.materialsproject.org/models/cgcnn) |
 | Voronoi RF  | 0.344 | 0.141         | −0.316 | [link](https://matbench-discovery.materialsproject.org/models/voronoi-rf) |
 
-EMA-GNN ranks **3rd by F1** (within 0.003 of both ESNet and ALIGNN) and **1st by
-MAE and R²** in this cohort. Every value in this table is sourced from the
+EMA-GNN ranks **2nd by F1** (within 0.003 of both ESNet and ALIGNN) and **1st by
+MAE and R²** in this cohort as of Aug, 2026. Every value in this table is sourced from the
 corresponding model's YAML in the
 [Matbench Discovery repository](https://github.com/janosh/matbench-discovery/tree/main/models)
 and can be independently verified.
